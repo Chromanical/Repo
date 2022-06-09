@@ -1,0 +1,12 @@
+C:\Users\user2\source\repos\PetuhovEmployment\bin\x86\Debug\PR2_Petuhov.mdb
+C:\Users\user2\source\repos\PetuhovEmployment\bin\x86\Debug\PetuhovEmployment.exe.config
+C:\Users\user2\source\repos\PetuhovEmployment\bin\x86\Debug\PetuhovEmployment.exe
+C:\Users\user2\source\repos\PetuhovEmployment\bin\x86\Debug\PetuhovEmployment.pdb
+C:\Users\user2\source\repos\PetuhovEmployment\obj\x86\Debug\PetuhovEmployment.csproj.AssemblyReference.cache
+C:\Users\user2\source\repos\PetuhovEmployment\obj\x86\Debug\PetuhovEmployment.MainWindow.resources
+C:\Users\user2\source\repos\PetuhovEmployment\obj\x86\Debug\PetuhovEmployment.Chart.resources
+C:\Users\user2\source\repos\PetuhovEmployment\obj\x86\Debug\PetuhovEmployment.Properties.Resources.resources
+C:\Users\user2\source\repos\PetuhovEmployment\obj\x86\Debug\PetuhovEmployment.csproj.GenerateResource.cache
+C:\Users\user2\source\repos\PetuhovEmployment\obj\x86\Debug\PetuhovEmployment.csproj.CoreCompileInputs.cache
+C:\Users\user2\source\repos\PetuhovEmployment\obj\x86\Debug\PetuhovEmployment.exe
+C:\Users\user2\source\repos\PetuhovEmployment\obj\x86\Debug\PetuhovEmployment.pdb
